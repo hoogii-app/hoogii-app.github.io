@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhoogii_frontend=self.webpackChunkhoogii_frontend||[]).push([[163],{3328:(e,o,t)=>{t.r(o),t.d(o,{default:()=>i});var n=t(6550),c=t(7294);const i=()=>c.createElement(n.l_,{to:"/privacy-policy"})}}]);
